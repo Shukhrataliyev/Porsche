@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="19" passed="19">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29262" started-at="2018-06-22T21:32:12Z" finished-at="2018-06-22T21:32:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29262" started-at="2018-06-22T21:32:12Z" finished-at="2018-06-22T21:32:42Z">
+      <class name="com.cybertek.Porsche">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="setUp" is-config="true" duration-ms="10294" started-at="2018-06-22T21:32:12Z" finished-at="2018-06-22T21:32:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCase1_6()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase1_6" duration-ms="1697" started-at="2018-06-22T21:32:23Z" finished-at="2018-06-22T21:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1_6 -->
+        <test-method status="PASS" signature="testCase1_7()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase1_7" duration-ms="46" started-at="2018-06-22T21:32:24Z" finished-at="2018-06-22T21:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1_7 -->
+        <test-method status="PASS" signature="testCase1_8()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase1_8" duration-ms="146" started-at="2018-06-22T21:32:24Z" finished-at="2018-06-22T21:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1_8 -->
+        <test-method status="PASS" signature="testCase1_9()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase1_9" duration-ms="339" started-at="2018-06-22T21:32:24Z" finished-at="2018-06-22T21:32:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1_9 -->
+        <test-method status="PASS" signature="testCase2_0()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase2_0" duration-ms="77" started-at="2018-06-22T21:32:25Z" finished-at="2018-06-22T21:32:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2_0 -->
+        <test-method status="PASS" signature="testCase2_1()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase2_1" duration-ms="119" started-at="2018-06-22T21:32:25Z" finished-at="2018-06-22T21:32:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2_1 -->
+        <test-method status="PASS" signature="testCase2_2()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase2_2" duration-ms="424" started-at="2018-06-22T21:32:25Z" finished-at="2018-06-22T21:32:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2_2 -->
+        <test-method status="PASS" signature="testCase2_3()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase2_3" duration-ms="75" started-at="2018-06-22T21:32:25Z" finished-at="2018-06-22T21:32:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2_3 -->
+        <test-method status="PASS" signature="testCase2_4()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase2_4" duration-ms="118" started-at="2018-06-22T21:32:26Z" finished-at="2018-06-22T21:32:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2_4 -->
+        <test-method status="PASS" signature="testCase2_5()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase2_5" duration-ms="3156" started-at="2018-06-22T21:32:26Z" finished-at="2018-06-22T21:32:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2_5 -->
+        <test-method status="PASS" signature="testCase2_6()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase2_6" duration-ms="98" started-at="2018-06-22T21:32:29Z" finished-at="2018-06-22T21:32:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2_6 -->
+        <test-method status="PASS" signature="testCase2_7()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase2_7" duration-ms="96" started-at="2018-06-22T21:32:29Z" finished-at="2018-06-22T21:32:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2_7 -->
+        <test-method status="PASS" signature="testCase2_8()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase2_8" duration-ms="2241" started-at="2018-06-22T21:32:29Z" finished-at="2018-06-22T21:32:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2_8 -->
+        <test-method status="PASS" signature="testCase2_9()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase2_9" duration-ms="2306" started-at="2018-06-22T21:32:31Z" finished-at="2018-06-22T21:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2_9 -->
+        <test-method status="PASS" signature="testCase3_0()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase3_0" duration-ms="120" started-at="2018-06-22T21:32:34Z" finished-at="2018-06-22T21:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3_0 -->
+        <test-method status="PASS" signature="testCase3_1()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase3_1" duration-ms="95" started-at="2018-06-22T21:32:34Z" finished-at="2018-06-22T21:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3_1 -->
+        <test-method status="PASS" signature="testCase3_2()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase3_2" duration-ms="7519" started-at="2018-06-22T21:32:34Z" finished-at="2018-06-22T21:32:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3_2 -->
+        <test-method status="PASS" signature="testCase3_5()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase3_5" duration-ms="163" started-at="2018-06-22T21:32:41Z" finished-at="2018-06-22T21:32:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3_5 -->
+        <test-method status="PASS" signature="testCase3_6()[pri:0, instance:com.cybertek.Porsche@6a4f787b]" name="testCase3_6" duration-ms="92" started-at="2018-06-22T21:32:41Z" finished-at="2018-06-22T21:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3_6 -->
+      </class> <!-- com.cybertek.Porsche -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
